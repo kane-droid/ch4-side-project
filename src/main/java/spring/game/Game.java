@@ -1,4 +1,4 @@
-package game;
+package spring.game;
 
 public class Game {
 	public static void main(String[] args) {

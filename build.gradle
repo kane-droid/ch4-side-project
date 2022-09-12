@@ -18,5 +18,5 @@ tasks.named('test') {
 }
 
 application {
-	mainClass = 'game.Game'
+	mainClass = 'spring.game.Game'
 }
